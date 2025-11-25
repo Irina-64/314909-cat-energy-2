@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Ирина Трубчик](https://up.htmlacademy.ru/adaptive-individual/2/user/314909).
-* Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
+* Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789)
 
 ---
 
