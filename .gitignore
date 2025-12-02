@@ -3,6 +3,7 @@ node_modules
 build
 .idea
 .DS_Store
+.env
 raw/**/*.jpg
 raw/**/*.jpeg
 raw/**/*.png
